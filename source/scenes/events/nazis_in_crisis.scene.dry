@@ -14,7 +14,7 @@ Finally, the internal contradictions of the NSDAP have caught up to it. With the
 - @complacency: The Nazis are still a threat. We must not be too complacent.
 
 @celebrate
-on-arrival: nazi_alarm -= 2; workers_spd += 2; unemployed_spd += 2;
+on-arrival: nazi_urgency -= 1; workers_spd += 2; unemployed_spd += 2;
 
 This is an occasion to celebrate! Hopefully he Nazis will no longer be a threat to the Republic.
 
